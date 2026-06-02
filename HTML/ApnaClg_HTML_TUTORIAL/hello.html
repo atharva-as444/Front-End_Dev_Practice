@@ -1,16 +1,83 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic Project: Print Hello</title>
-</head>
-<body style="background-color: lightblue">
-    <h1>Hello! You are currently on hello page</h1>
-    <br>
+    <title>Hello Page</title>
+    <style>
+        body {
+            /* Gradient background for whole page */
+            background: linear-gradient(to right, #ff9a9e, #fad0c4, #fbc2eb, #a6c1ee);
+            font-family: Arial, sans-serif;
+            padding: 0;
+            text-align: center;
+        }
+        
 
-      <a href="index.html" style="display: block; text-align: center; margin-top: 30px; font-size: 16px; color: white; background-color: slateblue; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+        p {
+            color: #333;
+            font-size: 18px;
+        }
+        h3 {
+            background-color: #008080; /* teal */
+            color: #fff;
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 6px;
+            margin-top: 20px;
+        }
+
+
+        h1{
+            background: linear-gradient(to right, blue,slateblue, purple); 
+            color:#fff;
+            padding: 6px;
+              display: block;        /* block banaya */
+              width: 60%;          /* fixed width */
+              margin: 0px auto; 
+        }
+
+
+       .home-link{
+          display: block;        /* block banaya */
+          width: 25%;          /* fixed width */
+          margin: 30px auto;     /* auto → center align */
+          text-align: center;    /* text bhi center */
+          
+          background:gray;
+          color: white;
+          padding: 10px 20px;
+          border-radius: 5px;
+          text-decoration: none;
+          border: 2px solid black;
+        }
+
+
+        .home-link:hover{
+             background: #16cd;
+            border: solid 2px #000000;
+        
+           
+        }
+
+
+    </style>
+</head>
+<body>
+    <main>
+    <br><br>
+    <h1 style="border: 2px solid black">Hello, I am Atharva Singh</h1>
+    <br>
+     <hr style=" width: 90%" color="black"> <br>
+    
+    
+    <h3>Apna College HTML Tutorial</h3>
+    <br>
+    <p>By Shraddha Khapra Ma'am</p>
+    </main>
+    <footer>
+    <br> <br> <br>
+    <a class="home-link" href="index.html">
   Return to Home
 </a>
+    </footer>
 </body>
 </html>
