@@ -43,6 +43,6 @@ Beginner Web Developer | Exploring HTML, CSS, GitHub, and Deployment
 
 - 🌐 Live Project: [basic-html-project-atharvas.vercel.app](https://basic-html-project-atharvas.vercel.app)  
 - 💻 GitHub: [Project Repo](https://github.com/atharva-as444/Front-End_Dev_Practice/tree/main/HTML/ApnaClg_HTML_TUTORIAL)
-- 🔗 LinkedIn:[Linkedin](www.linkedin.com/in/atharva-as444)
+- 🔗 LinkedIn:[Linkedin](https://www.linkedin.com/in/atharva-as444)
 
 Passionate about learning by doing, experimenting with creative UI effects, and showcasing my authentic journey in web development.
