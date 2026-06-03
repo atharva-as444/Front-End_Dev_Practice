@@ -29,7 +29,7 @@ This project reflects my curiosity, self‑learning, and dedication.
 ---
 
 ## 🙏 Credits
-- **Apna College (YouTube Channel)** → [Apna College Channel](https://www.youtube.com/@ApnaCollege)  
+- **Apna College (YouTube Channel)** → [Apna College Channel](https://youtube.com/@apnacollegeofficial?si=6_2neYi86SMuap7j)
 - **HTML Tutorial Video by Shraddha Khapra Ma’am** → [Watch Tutorial](https://youtu.be/HcOc7P5BMi4?si=HRucj0u_34EixKXY)  
 - Credit goes to: **Shraddha Khapra Ma’am**  for her unique & engaging teaching method.
 
