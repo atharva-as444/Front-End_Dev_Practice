@@ -24,7 +24,7 @@ This project reflects my curiosity, self‑learning, and dedication.
 ## 📅 Timeline
 - **Started**: May 2026  
 - **Completed**: June 2026  
-- Worked consistently for 3–4 days, including one 10+ hour learning session.  
+- Worked consistently for 7+ days, including one 10+ hour coding session.  
 
 ---
 
