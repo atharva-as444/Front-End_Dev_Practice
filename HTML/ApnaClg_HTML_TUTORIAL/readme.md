@@ -28,6 +28,15 @@ This project reflects my curiosity, self‑learning, and dedication.
 
 ---
 
+## 🧑‍💻 Skills Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
 ## 🙏 Credits
 - **Apna College (YouTube Channel)** → [Apna College Channel](https://youtube.com/@apnacollegeofficial?si=6_2neYi86SMuap7j)
 - **HTML Tutorial Video by Shraddha Khapra Ma’am** → [Watch Tutorial](https://youtu.be/HcOc7P5BMi4?si=HRucj0u_34EixKXY)  
