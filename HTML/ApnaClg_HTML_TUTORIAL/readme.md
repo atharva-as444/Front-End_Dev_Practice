@@ -17,7 +17,7 @@ This project reflects my curiosity, self‑learning, and dedication.
 
 ## 🚀 Deployment
 - **Live Website**: [basic-html-project-atharvas.vercel.app](https://basic-html-project-atharvas.vercel.app)  
-- **GitHub Repository**: *Add your repo link here*  
+- **GitHub Repository**: [PROJECT REPO](https://github.com/atharva-as444/Front-End_Dev_Practice/tree/main/HTML/ApnaClg_HTML_TUTORIAL)
 
 ---
 
@@ -31,7 +31,7 @@ This project reflects my curiosity, self‑learning, and dedication.
 ## 🙏 Credits
 - **Apna College (YouTube Channel)** → [Apna College Channel](https://www.youtube.com/@ApnaCollege)  
 - **HTML Tutorial Video by Shraddha Khapra Ma’am** → [Watch Tutorial](https://youtu.be/HcOc7P5BMi4?si=HRucj0u_34EixKXY)  
-- Credit goes to: **Shraddha Khapra Ma’am**  for her unique engaging teaching method.
+- Credit goes to: **Shraddha Khapra Ma’am**  for her unique & engaging teaching method.
 
 I sincerely thank these sources for providing the foundation and motivation to learn HTML and experiment with CSS.
 
@@ -42,7 +42,7 @@ I sincerely thank these sources for providing the foundation and motivation to l
 Beginner Web Developer | Exploring HTML, CSS, GitHub, and Deployment  
 
 - 🌐 Live Project: [basic-html-project-atharvas.vercel.app](https://basic-html-project-atharvas.vercel.app)  
-- 💻 GitHub: [Project Repo](HTML/ApnaClg_HTML_TUTORIAL)
+- 💻 GitHub: [Project Repo](https://github.com/atharva-as444/Front-End_Dev_Practice/tree/main/HTML/ApnaClg_HTML_TUTORIAL)
 - 🔗 LinkedIn:[Linkedin](www.linkedin.com/in/atharva-as444)
 
 Passionate about learning by doing, experimenting with creative UI effects, and showcasing my authentic journey in web development.
